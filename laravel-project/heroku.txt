@@ -1,0 +1,14 @@
+mysql --host=h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com --user=ud6uvipn4oynptak -password=c1tfgydsoxzeljia
+
+=== warm-shore-22618 Config Vars
+APP_KEY:     base64:TA7A84HY5k3wZmPe8qb17Rj/jWliLQMyvia1dyL/HOU=
+DB_DATABASE: t7brgz1wwnw1omoc
+DB_HOST:     h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+DB_PASSWORD: c1tfgydsoxzeljia
+DB_USERNAME: ud6uvipn4oynptak
+JAWSDB_URL:  mysql://ud6uvipn4oynptak:c1tfgydsoxzeljia@h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/t7brgz1wwnw1omoc
+LOG_CHANNEL: errorlog
+
+MySQLにログインする方法
+mysql -u ud6uvipn4oynptak -h h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com -p
+password: c1tfgydsoxzeljia
